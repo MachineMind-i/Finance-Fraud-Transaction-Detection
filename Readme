@@ -1,0 +1,7 @@
+Today we all know how our world is advancing in the Finance Sector with the help of online transaction technology.
+No doubt this technology has enabled alot of transaction to be done without any hectic process. Just by adding revelant details money can be transferred to the beneficary.
+But good things always comes with some cons i.e., as alot of transactions are processed everyday , it is identified that many Fraud transactions are also happening everyday
+keeping this problem in mind , I have worked on a Financial Transaction Dataset which has a 95% of accuracy in identifying the nature of transactions(FRAUD, NON-FRAUD).
+
+In this repo. one can find how I applied the logics of Machine Learning Algorithm with the help of PYTHON Programming Language to develop a model which can perform this
+task with ease at any scale big to small dataset.
